@@ -1,5 +1,5 @@
-# BinanceTrading-GeekoBot
-Trading Bot for Binance
+# BinanceTrading-GeekoBot-NFT
+Trading Bot for NFT Binance
 
 
 Download :
